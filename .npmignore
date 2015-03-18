@@ -5,6 +5,8 @@ reset.sh
 reset.bat
 bin/test.sh
 sample-code/
+*/debug/
+*/doc/
 test/
 */test/
 lib/devices/android/bootstrap/bin/
