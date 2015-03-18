@@ -6,6 +6,7 @@ reset.bat
 bin/test.sh
 sample-code/
 test/
+*/test/
 lib/devices/android/bootstrap/bin/
 lib/devices/android/bootstrap/target/
 lib/devices/android/bootstrap/local.properties
